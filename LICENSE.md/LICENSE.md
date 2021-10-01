@@ -30,7 +30,7 @@ production use.
 
 Effective on the sixth anniversary of the first publicly
 available distribution of a specific version of the Licensed Work under this
-License, whichever comes first, the Licensor hereby grants you rights under
+License, the Licensor hereby grants you rights under
 the terms of the Change License, and the rights granted in the paragraph
 above terminate.
 
