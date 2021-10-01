@@ -9,7 +9,7 @@ Parameters
 
 Licensor:             Timingguarder labs
 
-Licensed Work:        Timingguarder contract
+Licensed Work:        Timingguarder.sol 
                       The Licensed Work is (c) 2021 Timingguarder Labs
 
 Additional Use Grant: Any uses listed and defined at
