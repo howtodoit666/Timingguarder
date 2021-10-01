@@ -13,7 +13,7 @@ Licensed Work:        Timingguarder contract
                       The Licensed Work is (c) 2021 Timingguarder Labs
 
 Additional Use Grant: Any uses listed and defined at
-                      v3-core-license-grants.uniswap.eth
+                      https://github.com/howtodoit666/Timingguarder/blob/main/LICENSE.md/Authorization%20list
 
 Change Date:          2027-10-01 
 
