@@ -17,7 +17,7 @@ Additional Use Grant: Any uses listed and defined at
 
 Change Date:          2027-10-01 
 
-Change License:       GNU General Public License v2.0 or later
+Change License:       GNU General Public License v3.0 or later
 
 -----------------------------------------------------------------------------
 
