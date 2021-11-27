@@ -15,7 +15,7 @@ Licensed Work:        Timingguarder.sol
 Additional Use Grant: Any uses listed and defined at
                       https://github.com/howtodoit666/Timingguarder/blob/main/LICENSE.md/Authorization%20list
 
-Change Date:          2027-09-01 
+Change Date:          2031-09-01 
 
 Change License:       GNU General Public License v3.0 or later
 
