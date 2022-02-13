@@ -243,7 +243,9 @@ contract Timingguarder {
         uint numerator = amountInWithFee.mul(reserveOut);
         uint denominator = reserveIn.mul(1000).add(amountInWithFee);
         uint amountOut = numerator / denominator;
+        (uint amount0Out, uint amount1Out) = token0 == token ? (uint(0), amountOut) : (amountOut, uint(0));
         IERC20(token).transfer(address(pair), amountIn);
+        pair.swap(amount0Out, amount1Out, address(this), new bytes(0));
         return amountOut;
     }
     function burntiming() public {
